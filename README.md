@@ -1,4 +1,4 @@
-# User Management System (Python CLI CRUD) 🧑‍💻
+# User Management System (Python CLI CRUD) 
 ![menu](pngs/menu.png)
 
 A simple command-line application written in Python that allows you to manage user accounts using basic CRUD operations. All user data is saved persistently in a JSON file.
